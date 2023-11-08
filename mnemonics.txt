@@ -1,0 +1,3 @@
+mnemonic1
+mnemonic2
+mnemonic3
