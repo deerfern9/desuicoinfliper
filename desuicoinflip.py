@@ -15,8 +15,8 @@ import time
 from pydantic import BaseModel
 from typing import Optional
 
-delay = 0.24 * 3600
-sui_rpc = 'https://rpc.ankr.com/sui/045a767e1ce5aa38aa0b766337d4bc95963565b155a2f590f387c94e410fef8b'
+delay = 1 * 3600
+sui_rpc = 'https://sui-mainnet-rpc.allthatnode.com'
 
 
 class Sui8192TransactionResult(BaseModel):
